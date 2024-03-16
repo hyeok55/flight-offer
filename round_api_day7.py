@@ -15,8 +15,8 @@ aws_secret_access_key = aws_conn.password
 
 # Amadeus 클라이언트 생성
 amadeus = Client(
-    client_id='cjr9tknVO9UTkwsQhAGvg63aj6cL3Ob6',
-    client_secret='XAAVmXtT9DH4yCtH'
+    client_id='***',
+    client_secret='***'
 )
 
 
